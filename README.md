@@ -13,4 +13,5 @@ TO DO:
 [] send good morning/evening message to gc every morning/evening
 [] send gifs
 
+[] deploy on heroku
 [] NEED TO MAKE SURE THAT MONKEBOT LOGS OUT SAFELY 
